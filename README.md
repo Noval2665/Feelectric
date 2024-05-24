@@ -1,4 +1,4 @@
-# Feelectric
+# Flutter
 
 A new Flutter project.
 
